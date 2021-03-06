@@ -1,0 +1,7 @@
+Bear
+Mouse 
+Insect 
+Crayfish 
+Frog 
+Trout 
+Fox

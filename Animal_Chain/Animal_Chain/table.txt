@@ -1,0 +1,8 @@
+			Bear Mouse Insect Crayfish Frog Trout Fox
+Bear		0	1		0		0		0	1		1
+Mouse		0	0		1		0		0	0		0
+Insect		0	0		1		0		0	0		0
+Crayfish	0	0		1		0		0	0		0
+Frog		0	0		1		1		0	0		0
+Trout		0	0		1		1		1	0		0
+Fox			0	1		0		0		1	0		0
