@@ -12,6 +12,7 @@ only have one life-line, that is the 50:50. Of course contestants can walk away
 with their earnings at any time in the game. If they miss a question, they lose 
 what they have earned down to $100, $1000, $32,000.
  
+Developed with: Kevin Davis and Simeon S.
  
 
 ![GUI](Capture1.JPG)
