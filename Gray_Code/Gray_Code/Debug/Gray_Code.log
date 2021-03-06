@@ -1,0 +1,4 @@
+﻿  Main.cpp
+e:\discrete\gray_code\gray_code\main.cpp(70): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+e:\discrete\gray_code\gray_code\main.cpp(75): warning C4715: 'computeGrayPosition': not all control paths return a value
+  Gray_Code.vcxproj -> E:\Discrete\Gray_Code\Debug\Gray_Code.exe
