@@ -1,0 +1,13 @@
+C:\Users\NovaJ\OneDrive\Desktop\VS_Projects\Program2\obj\Debug\netcoreapp3.1\Program2.csprojAssemblyReference.cache
+C:\Users\NovaJ\OneDrive\Desktop\VS_Projects\Program2\obj\Debug\netcoreapp3.1\Program2.AssemblyInfoInputs.cache
+C:\Users\NovaJ\OneDrive\Desktop\VS_Projects\Program2\obj\Debug\netcoreapp3.1\Program2.AssemblyInfo.cs
+C:\Users\NovaJ\OneDrive\Desktop\VS_Projects\Program2\obj\Debug\netcoreapp3.1\Program2.csproj.CoreCompileInputs.cache
+C:\Users\NovaJ\OneDrive\Desktop\VS_Projects\Program2\bin\Debug\netcoreapp3.1\Program2.exe
+C:\Users\NovaJ\OneDrive\Desktop\VS_Projects\Program2\bin\Debug\netcoreapp3.1\Program2.deps.json
+C:\Users\NovaJ\OneDrive\Desktop\VS_Projects\Program2\bin\Debug\netcoreapp3.1\Program2.runtimeconfig.json
+C:\Users\NovaJ\OneDrive\Desktop\VS_Projects\Program2\bin\Debug\netcoreapp3.1\Program2.runtimeconfig.dev.json
+C:\Users\NovaJ\OneDrive\Desktop\VS_Projects\Program2\bin\Debug\netcoreapp3.1\Program2.dll
+C:\Users\NovaJ\OneDrive\Desktop\VS_Projects\Program2\bin\Debug\netcoreapp3.1\Program2.pdb
+C:\Users\NovaJ\OneDrive\Desktop\VS_Projects\Program2\obj\Debug\netcoreapp3.1\Program2.dll
+C:\Users\NovaJ\OneDrive\Desktop\VS_Projects\Program2\obj\Debug\netcoreapp3.1\Program2.pdb
+C:\Users\NovaJ\OneDrive\Desktop\VS_Projects\Program2\obj\Debug\netcoreapp3.1\Program2.genruntimeconfig.cache

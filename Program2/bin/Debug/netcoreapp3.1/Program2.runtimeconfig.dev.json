@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\NovaJ\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\NovaJ\\.nuget\\packages"
+    ]
+  }
+}

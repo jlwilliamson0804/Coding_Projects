@@ -1,0 +1,10 @@
+C:\Users\NovaJ\OneDrive\Desktop\VS_Projects\Contemporary c#\Painter\bin\Debug\Painter.exe.config
+C:\Users\NovaJ\OneDrive\Desktop\VS_Projects\Contemporary c#\Painter\bin\Debug\Painter.exe
+C:\Users\NovaJ\OneDrive\Desktop\VS_Projects\Contemporary c#\Painter\bin\Debug\Painter.pdb
+C:\Users\NovaJ\OneDrive\Desktop\VS_Projects\Contemporary c#\Painter\obj\Debug\Painter.csprojAssemblyReference.cache
+C:\Users\NovaJ\OneDrive\Desktop\VS_Projects\Contemporary c#\Painter\obj\Debug\Painter.Form1.resources
+C:\Users\NovaJ\OneDrive\Desktop\VS_Projects\Contemporary c#\Painter\obj\Debug\Painter.Properties.Resources.resources
+C:\Users\NovaJ\OneDrive\Desktop\VS_Projects\Contemporary c#\Painter\obj\Debug\Painter.csproj.GenerateResource.cache
+C:\Users\NovaJ\OneDrive\Desktop\VS_Projects\Contemporary c#\Painter\obj\Debug\Painter.csproj.CoreCompileInputs.cache
+C:\Users\NovaJ\OneDrive\Desktop\VS_Projects\Contemporary c#\Painter\obj\Debug\Painter.exe
+C:\Users\NovaJ\OneDrive\Desktop\VS_Projects\Contemporary c#\Painter\obj\Debug\Painter.pdb
