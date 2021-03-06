@@ -1,0 +1,3 @@
+﻿  Source.cpp
+f:\4103-passos\miniproject2\miniproject2\source.cpp(9): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MiniProject2.vcxproj -> F:\4103-Passos\MiniProject2\Debug\MiniProject2.exe

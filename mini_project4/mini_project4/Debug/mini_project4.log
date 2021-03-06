@@ -1,0 +1,3 @@
+﻿  Source2.cpp
+f:\4103-passos\mini_project4\mini_project4\source2.cpp(10): warning C4101: 'PageArray': unreferenced local variable
+  mini_project4.vcxproj -> F:\4103-Passos\mini_project4\Debug\mini_project4.exe
