@@ -1,0 +1,3 @@
+﻿  Source.cpp
+f:\comp sci 2\program5\program5\source.cpp(25): error C2664: 'void populateArray(std::ifstream &,std::ofstream &,SortedList [])': cannot convert argument 3 from 'SortedList **' to 'SortedList []'
+  f:\comp sci 2\program5\program5\source.cpp(25): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast

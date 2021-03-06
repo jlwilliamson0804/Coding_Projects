@@ -1,0 +1,6 @@
+﻿  Source2.cpp
+f:\comp sci 2\program4_wordsearch\program4_wordsearch\source2.cpp(230): warning C4018: '>': signed/unsigned mismatch
+f:\comp sci 2\program4_wordsearch\program4_wordsearch\source2.cpp(266): warning C4715: 'wordMatch': not all control paths return a value
+  LINK : F:\Comp Sci 2\Program4_WordSearch\Debug\Program4_WordSearch.exe not found or not built by the last incremental link; performing full link
+  Program4_WordSearch.vcxproj -> F:\Comp Sci 2\Program4_WordSearch\Debug\Program4_WordSearch.exe
+  Program4_WordSearch.vcxproj -> F:\Comp Sci 2\Program4_WordSearch\Debug\Program4_WordSearch.pdb (Partial PDB)

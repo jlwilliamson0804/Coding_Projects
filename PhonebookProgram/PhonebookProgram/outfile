@@ -1,0 +1,24 @@
+
+Welcome to the Phone Entry Program! 
+
+Unsorted Entries 
+Name         Number
+Williamson   987-983-3294
+Fincher      978-234-2348
+Lucus        876-234-3458
+Washington   987-234-2348
+Jefferson    987-234-4589
+
+List sorted by Name
+Fincher      978-234-2348
+Jefferson    987-234-4589
+Lucus        876-234-3458
+Washington   987-234-2348
+Williamson   987-983-3294
+
+List sorted by Number
+Lucus        876-234-3458
+Fincher      978-234-2348
+Washington   987-234-2348
+Jefferson    987-234-4589
+Williamson   987-983-3294

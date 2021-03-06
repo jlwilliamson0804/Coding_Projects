@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\comp sci 2\cs2_program1\cs2_program1\source.cpp(38): warning C4101: 'outFileName': unreferenced local variable
+  CS2_Program1.vcxproj -> E:\Comp Sci 2\CS2_Program1\Debug\CS2_Program1.exe
+  CS2_Program1.vcxproj -> E:\Comp Sci 2\CS2_Program1\Debug\CS2_Program1.pdb (Partial PDB)
